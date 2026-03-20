@@ -1,0 +1,8 @@
+
+# Common generated files (in case any appear outside those dirs)
+.terraform/
+*.tfstate
+*.tfstate.*
+*.tfvars
+.env
+.env.*
